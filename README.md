@@ -27,15 +27,13 @@ This project is a web-based **Doctor Appointment Booking System** that allows pa
 
 ## 🧱 Project Structure
 
-
-
-
-
-
-
-
-
-
+/docs – Contains design documents, planning materials, and performance test reports
+/screenshots – Visual snapshots of UI and major milestones from each development phase
+/flows – JSON or image exports of workflow logic from any visual flow tool used
+/client – All frontend components, styles, and pages (React/Next.js)
+/server – Backend routes, controllers, and models (Node.js/Express)
+/public – Static files like icons, images, and manifest
+.env.example – Template for required environment variables
 
 ---
 
@@ -85,13 +83,21 @@ This project is a web-based **Doctor Appointment Booking System** that allows pa
 
 ---
 
-## 🤝 Contributions & Contact
-Feel free to fork this repo, open issues, or raise pull requests.  
-For suggestions or collaborations, reach out via:
+## 🤝 Contributions 
 
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [your-linkedin-profile]  
-🐙 GitHub: [your-github-username]
+Team ID : LTVIP2025TMID58879
+
+Team Size : 5
+
+Team Leader : Sushma Priya Uppara
+
+Team member : Kummetha Vasavi
+
+Team member : V Madhu Shalini
+
+Team member : V Meghana
+
+Team member : Chennreddy Narasimhulu
 
 ---
 
